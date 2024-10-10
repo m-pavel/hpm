@@ -1,6 +1,6 @@
 module hpm
 
-go 1.20
+go 1.23
 
 require (
 	github.com/godbus/dbus/v5 v5.1.0
