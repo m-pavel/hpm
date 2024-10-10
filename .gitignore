@@ -1,5 +1,5 @@
 .vscode/
 grafana/
-prometheus/
+promdata/
 .env
 hpm
